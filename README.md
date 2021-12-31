@@ -19,3 +19,6 @@
 <li>Vimos como criar uma template function
 <li>Aprendemos a criar uma template class
 <li>Entendemos como a STL (standard template library) funciona, usando templates
+<li>Vimos que templates podem receber valores além de tipos
+<li>Aprendemos a receber valores em templates
+<li>Entendemos os problemas que o abuso do uso de templates pode trazer
