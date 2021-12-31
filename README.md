@@ -11,3 +11,7 @@
 <li>Aprendemos a sobrecarregar operadores em uma classe
 <li>Vimos os problemas de lidar com herança e sobrecarga de métodos
 <li>Conhecemos o conceito de friend functions
+<li>Aprendemos a representar 2 tipos ao mesmo tempo com std::pair
+<li>Vimos como representar um tipo ou outro com <i>std::variant</i>
+<li>Conhecemos o tipo optional para representar um valor existente ou não (opcional)
+<li>Vimos como representar qualquer tipo através de <i>any</i>
