@@ -15,3 +15,7 @@
 <li>Vimos como representar um tipo ou outro com <i>std::variant</i>
 <li>Conhecemos o tipo optional para representar um valor existente ou não (opcional)
 <li>Vimos como representar qualquer tipo através de <i>any</i>
+<li>Conhecemos o conceito de templates
+<li>Vimos como criar uma template function
+<li>Aprendemos a criar uma template class
+<li>Entendemos como a STL (standard template library) funciona, usando templates
